@@ -1,18 +1,10 @@
-//============================================================================
-// Name        : dfdf.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 
 //============================================================================
 // Name        : MLP.cpp
 // Author      : khalid&reda
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Implementation for MLP
 //============================================================================
 
 #include <stdio.h>      /* printf, scanf, puts, NULL */
