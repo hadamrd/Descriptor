@@ -99,7 +99,7 @@ void mShow(vector<T> v,string flag = NON )
 ////    calc var and mean between matlab and c++
 //**********************************************************************************
 
-//*******load tow databases one produced by our implementation of ART and the other produced by matlab
+//*******load two databases one produced by our implementation of ART and the other produced by matlab
 //*******calculate mean and variance between the tow
 //		DscDataBase<complex<double> > mdbs1(argv[1]), mdbs2(argv[2]);
 //		mean_var m_v = Similarity::meanVarSimDataBase(mdbs1, mdbs2, Similarity::normL1<complex<double> >);
@@ -135,7 +135,7 @@ void mShow(vector<T> v,string flag = NON )
 
 
 //***********************zernik descritor test******************good
-//charge tow images
+//charge two images
 //	Mat im1 = imread(argv[1],0), im2=imread(argv[2],0);
 //	int order = atoi(argv[3]);
 //create ZMDescriptor
